@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="byMarc.Net2.WinControls.ReorderingCheckedListBox" Title="byMarc.Net2.WinControls.ReorderingCheckedListBox Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.ReorderingCheckedListBox.ReorderingCheckedListBoxControl.CanMoveSelectedItemDown" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.ReorderingCheckedListBox.chm::/topic_0000000000000008.html" LinkGroup="byMarc.Net2.WinControls.ReorderingCheckedListBox">CanMoveSelectedItemDown Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.ReorderingCheckedListBox.ReorderingCheckedListBoxControl.CanMoveSelectedItemUp" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.ReorderingCheckedListBox.chm::/topic_0000000000000007.html" LinkGroup="byMarc.Net2.WinControls.ReorderingCheckedListBox">CanMoveSelectedItemUp Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.ReorderingCheckedListBox.ReorderingCheckedListBoxControl.DeselectAll" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.ReorderingCheckedListBox.chm::/topic_0000000000000005.html" LinkGroup="byMarc.Net2.WinControls.ReorderingCheckedListBox">DeselectAll Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.ReorderingCheckedListBox.ReorderingCheckedListBoxControl.MoveSelectedItemDown" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.ReorderingCheckedListBox.chm::/topic_0000000000000006.html" LinkGroup="byMarc.Net2.WinControls.ReorderingCheckedListBox">MoveSelectedItemDown Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.ReorderingCheckedListBox.ReorderingCheckedListBoxControl.MoveSelectedItemUp" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.ReorderingCheckedListBox.chm::/topic_0000000000000003.html" LinkGroup="byMarc.Net2.WinControls.ReorderingCheckedListBox">MoveSelectedItemUp Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.ReorderingCheckedListBox.ReorderingCheckedListBoxControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.ReorderingCheckedListBox.chm::/topic_0000000000000002.html" LinkGroup="byMarc.Net2.WinControls.ReorderingCheckedListBox">ReorderingCheckedListBoxControl Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.ReorderingCheckedListBox.ReorderingCheckedListBoxControl.SelectAll" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.ReorderingCheckedListBox.chm::/topic_0000000000000004.html" LinkGroup="byMarc.Net2.WinControls.ReorderingCheckedListBox">SelectAll Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.ReorderingCheckedListBox" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.ReorderingCheckedListBox.chm::/topic_000000000000000A.html" LinkGroup="byMarc.Net2.WinControls.ReorderingCheckedListBox">byMarc.Net2.WinControls.ReorderingCheckedListBox Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.ReorderingCheckedListBox Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.ReorderingCheckedListBox.chm::/topic_0000000000000009.html" LinkGroup="byMarc.Net2.WinControls.ReorderingCheckedListBox">byMarc.Net2.WinControls.ReorderingCheckedListBox Reference</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
